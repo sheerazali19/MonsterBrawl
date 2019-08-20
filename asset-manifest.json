@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MonsterBrawl/static/css/main.0d9c540d.chunk.css",
+    "main.js": "/MonsterBrawl/static/js/main.9e54e852.chunk.js",
+    "main.js.map": "/MonsterBrawl/static/js/main.9e54e852.chunk.js.map",
+    "runtime~main.js": "/MonsterBrawl/static/js/runtime~main.db37bbd2.js",
+    "runtime~main.js.map": "/MonsterBrawl/static/js/runtime~main.db37bbd2.js.map",
+    "static/js/2.54057abf.chunk.js": "/MonsterBrawl/static/js/2.54057abf.chunk.js",
+    "static/js/2.54057abf.chunk.js.map": "/MonsterBrawl/static/js/2.54057abf.chunk.js.map",
+    "index.html": "/MonsterBrawl/index.html",
+    "precache-manifest.476fa093e56468151d60f41fde40d2cb.js": "/MonsterBrawl/precache-manifest.476fa093e56468151d60f41fde40d2cb.js",
+    "service-worker.js": "/MonsterBrawl/service-worker.js",
+    "static/css/main.0d9c540d.chunk.css.map": "/MonsterBrawl/static/css/main.0d9c540d.chunk.css.map"
+  }
+}
